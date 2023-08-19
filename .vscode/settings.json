@@ -2,5 +2,13 @@
     "editor.defaultColorDecorators": true,
     "files.exclude": {
         "": true
-    }
+    },
+    "diffEditor.experimental.showMoves": true,
+    "diffEditor.experimental.useVersion2": true,
+    "diffEditor.experimental.collapseUnchangedRegions": true,
+    "editor.minimap.autohide": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.preview": true,
+    "files.autoGuessEncoding": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true
 }
