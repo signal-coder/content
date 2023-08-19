@@ -1,3 +1,6 @@
 {
-    "editor.defaultColorDecorators": true
+    "editor.defaultColorDecorators": true,
+    "files.exclude": {
+        "": true
+    }
 }
